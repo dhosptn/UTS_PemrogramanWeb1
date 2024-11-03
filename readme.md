@@ -16,6 +16,7 @@
 
 ![alt text](assets/img-readme/home1.png)
 ![alt text](assets/img-readme/home2.png)
+![alt text](assets/img-readme/footer.png)
 
 Halaman Home adalah bagian awal dari website yang menyambut pengunjung dengan informasi tentang fitur-fitur yang ditawarkan. Berikut adalah komponen utama yang terdapat di halaman ini:
 
