@@ -82,6 +82,7 @@ Halaman Kontak menyediakan informasi penting bagi pengguna untuk menghubungi tim
 ## Halaman DataTables
 
 ![alt text](assets/img-readme/datatables.png)
+![alt text](assets/img-readme/datatables2.png)
 Halaman DataTables menyajikan data dalam format tabel yang interaktif dan responsif, memungkinkan pengguna untuk dengan mudah melihat, mengurutkan, dan mencari informasi. Berikut adalah komponen utama yang terdapat di halaman ini:
 
 1. Judul Halaman
